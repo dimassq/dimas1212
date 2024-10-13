@@ -1,0 +1,16 @@
+
+
+.jumbotron {
+    padding-top: 5rem ;
+    background-color: hwb(180 19% 23% / 0.616);
+}
+#project{
+   background-color: rgba(1, 65, 1, 0.568);
+}
+#mycv{
+    background-color: #7fffb9be;
+}
+section{
+    padding-top: 5rem;
+    background-color: aliceblue;
+}
